@@ -15,6 +15,7 @@ then
     alias traceroute='colourify /usr/sbin/traceroute'
     alias head='colourify head'
     alias tail='colourify tail'
+    alias more='colourify more'
     alias dig='colourify dig'
     alias mount='colourify mount'
     alias ps='colourify ps'
